@@ -1,16 +1,16 @@
 {
-  "name": "jobs-app",
+  "name": "static-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.6",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "antd": "^4.23.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.1"
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "npm install\r npm start",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNSID06/Reactjs.git"
+  },
+  "author": "naaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNSID06/Reactjs/issues"
+  },
+  "homepage": "https://github.com/MNSID06/Reactjs#readme"
 }
