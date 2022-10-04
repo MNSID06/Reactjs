@@ -1,3 +1,3 @@
-# Reactjs job project
+//React-static-website
 npm install
 npm start
