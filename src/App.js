@@ -1,19 +1,15 @@
 import React, { Component } from "react";
+import Website from "./Website";
 import "./App.css";
-import Job from "./Job.js";
 
 class App extends Component {
-
   render() {
-  return (
-    
-      <div className ="App">
-        <Job />
-    </div>
-  );
-}
+    return (
+      <div className="App">
+        <Website />
+      </div>
+    );
+  }
 }
 
 export default App;
-
-   

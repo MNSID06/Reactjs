@@ -1,7 +1,21 @@
 .App {
   text-align: center;
+  text-align-last: left;
+  font-size: x-large;
+}
+.picture1 {
+  max-width: 115rem;
+}
+.picture3 {
+  margin-left: 20rem;
 }
 
+.line {
+  color: gray;
+}
+.Website {
+  size-adjust: 768px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -11,6 +25,8 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+@media screen and (min-width: 300px) {
 }
 
 .App-header {
