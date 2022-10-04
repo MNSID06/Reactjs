@@ -5,6 +5,10 @@
 }
 .picture1 {
   max-width: 115rem;
+  max-height: 40rem;
+}
+.picture2 {
+  margin-left: 20rem;
 }
 .picture3 {
   margin-left: 20rem;
@@ -15,6 +19,9 @@
 }
 .Website {
   size-adjust: 768px;
+}
+.content {
+  margin-left: 8cm;
 }
 .App-logo {
   height: 40vmin;
